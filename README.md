@@ -1,5 +1,7 @@
 # My Leadership/Operating Manual
 
+This README came out of Lara Hogan's brilliant post on [Questions for our first 1:1](http://larahogan.me/blog/first-one-on-one-questions/) and Katie Womersley's excellent idea to turn it into a [written document](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b). This document explains how I like to work with my manager, with teams, and my peers.
+
 ## My Leadership Philosophy
 I believe that we are more effective as a team than I am alone and I will do my best to empower others.
 I believe that in order to expect behavior from others, I must lead by example.
@@ -11,7 +13,7 @@ I try to spend my energy working where I can to make the most impact for the bus
 
 I am distracted by ambient noise and often wear headphones when working, but am more than happy to talk to anyone if they need me. If I need to focus, I will let you know a time that I can chat. I believe the needs of the team are more important than my personal work so am more than happy to help out.
 
-## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/)
+## My answers to first 1:1 questions
 What makes you grumpy?
 
 - There are a couple of things that can make me grumpy:
@@ -46,7 +48,7 @@ What makes 1:1s the most valuable for you?
 
 What do you need from your manager?
 
-- An advocate for me who will make me feel safe so that I can bring up problems I may have. Someone willing to admit when they are wrong and change their behavior. Autonomy to make decisions that they themselves may not choose, but also helpful nudging toward the correct path when I may have strayed too far. I will make mistakes, so please give me feedback when warranted but also praise when earned. Please let me know how I can help you in any way I can as our relationship should not be a one way street.
+- An advocate for me who will make me feel safe so that I can bring up problems I may have. Someone who can admit their mistakes and learn and grow along side me. Autonomy to make decisions that they themselves may not choose, but also helpful nudging toward the correct path when I may have strayed too far. I will make mistakes, so please give me feedback when warranted but also praise when earned. Please let me know how I can help you in any way I can as our relationship should not be a one way street.
 
 From your team?
 
