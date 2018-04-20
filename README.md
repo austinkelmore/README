@@ -1,8 +1,15 @@
 # My Leadership/Operating Manual
 
-<!---## My Leadership Philosophy--->
+## My Leadership Philosophy
+I believe that we are more effective as a team than I am alone and I will do my best to empower others.
+I believe that in order to expect behavior from others, I must lead by example.
+I will, on occasion, be wrong and appreciate others challenging me and letting me know how I can be better.
+I promise to be empathetic, understanding, and to help create a safe environment so that we can all learn and grow.
 
-<!---## My Operating Philosophy--->
+## My Operating Philosophy
+I try to spend my energy working where I can make the most impact for the business and team. I take into account the organization, operational capabilities, and production timelines when making a decision of what to work on be it code, documentation, or helping people come together to solve a problem.
+
+I am distracted by ambient noise and often wear headphones when working, but am more than happy to talk to anyone if they need me. If I need to focus, I will let you know a time that I can chat. I believe the needs of the team are more important than my personal work so am more than happy to help out.
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/)
 What makes you grumpy?
