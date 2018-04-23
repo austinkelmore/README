@@ -11,9 +11,15 @@ I promise to be empathetic, understanding, and to help create a safe environment
 ## My Operating Philosophy
 I try to spend my energy working where I can to make the most impact for the business and team. I take into account the organization, operational capabilities, and production timelines when making a decision of what to work on be it code, documentation, or helping people come together to solve a problem.
 
-I am distracted by ambient noise and often wear headphones when working, but am more than happy to talk to anyone if they need me. If I need to focus, I will let you know a time that I can chat. I believe the needs of the team are more important than my personal work so am more than happy to help out.
+I recognize that I operate on many axes of privilege and try to use those privileges to [help](https://www.teenvogue.com/story/how-to-tell-if-youre-being-a-good-ally) people in marginalized groups.
+
+I often wear headphones when working because I am distracted by ambient noise, but am more than happy to talk to anyone if they need me. If I need to focus, I will let you know a time that I can chat. I believe the needs of the team are more important than my personal work so am more than happy to help out.
 
 ## My answers to first 1:1 questions
+What pronouns do you use?
+
+- [He/Him](https://pronoun.is/)
+
 What makes you grumpy?
 
 - There are a couple of things that can make me grumpy:
