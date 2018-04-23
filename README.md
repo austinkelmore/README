@@ -16,7 +16,8 @@ I recognize that I operate on many axes of privilege and try to use those privil
 I often wear headphones when working because I am distracted by ambient noise, but am more than happy to talk to anyone if they need me. If I need to focus, I will let you know a time that I can chat. I believe the needs of the team are more important than my personal work so am more than happy to help out.
 
 ## My answers to first 1:1 questions
-What pronouns do you use?
+
+#### What pronouns do you use?
 
 - [He/Him](https://pronoun.is/)
 
