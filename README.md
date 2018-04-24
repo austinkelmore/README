@@ -31,7 +31,7 @@ I often wear headphones when working because I am distracted by ambient noise, b
 
 #### How will I know when you’re grumpy?
 
-- I will likely tell you if something is bothering me, but if it's especially bad I'll likely get very quiet and try to be alone.
+- I'll likely tell you if something is bothering me, but if it's especially bad I'll probably get very quiet and try to be alone.
 
 #### How can I help you when you’re grumpy?
 
