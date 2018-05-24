@@ -13,7 +13,7 @@ I try to spend my energy working where I can to make the most impact for the bus
 
 I recognize that I operate on many axes of privilege and try to use those privileges to [help](https://www.teenvogue.com/story/how-to-tell-if-youre-being-a-good-ally) people in marginalized groups.
 
-I often wear headphones when working because I am distracted by ambient noise, but am more than happy to talk to anyone if they need me. If I need to focus, I will let you know a time that I can chat. I believe the needs of the team are more important than my personal work so am more than happy to help out.
+I often wear headphones when working because I am distracted by ambient noise, so please don't take that as a sign that I don't want to talk. If I have to focus on something, I will let you know and give you a time that I can talk later. I believe the needs of the team are more important than my personal work so am more than happy to help out.
 
 ## My answers to first 1:1 questions
 
