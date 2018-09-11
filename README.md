@@ -15,6 +15,8 @@ I recognize that I operate on many axes of privilege and try to use those privil
 
 I often wear headphones when working because I am distracted by ambient noise, so please don't take that as a sign that I don't want to talk. If I have to focus on something, I will let you know and give you a time that I can talk later. I believe the needs of the team are more important than my personal work so am more than happy to help out.
 
+I appreciate being given an agenda and as much accompanying information as possible before meetings so I can have time to process it on my own and prepare to talk about it. If the meeting is about a particularly sensitive topic or change, it may take me up to a day to process and really figure out my feelings. If you ask me a question and I don't know the answer because I'm still processing the information, I'll let you that's happening and when I'll be able to get back to you.
+
 ## My answers to first 1:1 questions
 
 #### What pronouns do you use?
